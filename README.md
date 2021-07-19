@@ -1,1 +1,1 @@
-# training-mac
+# training-mac--odoo
